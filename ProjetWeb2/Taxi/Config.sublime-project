@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				".*",
+				"*.txt",
+				"LICENSE",
+				"README.md"
+			],
+			"folder_exclude_patterns":
+			[
+				"font-awesome",
+				"fonts",
+				"js"
+			],
+			"path": "C:\\wamp\\www\\PHP3\\ProjetWeb2"
+		}
+	]
+}

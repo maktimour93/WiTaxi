@@ -1,0 +1,42 @@
+-----------------------------------------------------------------------------------------------------------------------------------
+                                                       Commit
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+Un commit désigne la validation d'un ensemble de modifications effecutées sur un ou plusieurs fichiers.
+Exemple:
+         Disons qu'on veut créer une page web pour notre CV. On aura besoin d'une page html et un fichier css par exemple.
+         On commence à écrire du code html : toutes les rubriques du CV sont là, alors la page est validé, on parle d'un premier commit.
+         Ensuite on passe a coder le css de notre page cv, on teste, tout est bien, on valide, et ainsi c'est notre 2eme commit.
+         Apres une petite pause, j'ouvre ma page, je constate que la forme de formulaire(couleur de bordure,font du texte,background...) n'est pas
+         tres joli, je modifie donc mon fichier css, je teste , et là, le look de la page change au mieux, je valide et ainsi c'est ma 3eme commit
+
+Avec le logiciel de gestion de version git :
+la commande permettant de faire un commit est : git commit -am 'message' (biensur le fichier doit etre ajouté à l'index avec la commande git add 
+fichier)
+
+-----------------------------------------------------------------------------------------------------------------------------------
+                                                          git log
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+Sur un projet, si on veut voir toutes les modifications faites sur les fichiers du projet de la phase de creation jusqu'à la version actuelle, 
+c'est à dire selon la définition du commit ci-dessus, on veut voir l'historique de l'ensemble des commits sur notre projet, on utilise la commande
+git log.
+Dans cette liste de commits, chaque commit est reprsenté par un identifiant unique, un message, informations du developpeur qui créé cette commit.
+
+
+ 
+-----------------------------------------------------------------------------------------------------------------------------------
+                                                             Branche
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Pour la plupart des projets, on trouve qu'il y a une version de production et une autre de test, moi je comprend une branche comme l'emplacement
+pour chacune de ces 2 versions.
+
+Pour git, la branche principale (celle qui contient notre version de projet principale) est master.
+Si on veut effectuer des modifications, c'est clair qu'on doit d'abord passer par la version de test, pour cela une branche test est créé, 
+on travaille dessus,on valide , ensuite on passe a la branche principle(version principale du projet : test => master) pour insérer les changements
+validés au niveau de la version test.
+
+Biensur on peut créer plusieurs branches pour telles fonctionnalités(ici j'ai pris la fonctionnalité de test).
