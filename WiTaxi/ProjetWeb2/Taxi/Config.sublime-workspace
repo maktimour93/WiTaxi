@@ -305,10 +305,14 @@
 	},
 	"expanded_folders":
 	[
-		"/C/wamp/www/PHP3/WiTaxi"
+		"/C/wamp/www/PHP3/WiTaxi",
+		"/C/wamp/www/PHP3/WiTaxi/ProjetWeb2",
+		"/C/wamp/www/PHP3/WiTaxi/ProjetWeb2/Taxi"
 	],
 	"file_history":
 	[
+		"/C/wamp/www/PHP3/WiTaxi/ProjetWeb2/Taxi/Config.sublime-workspace",
+		"/C/wamp/www/PHP3/WiTaxi/ProjetWeb2/Taxi/index.php",
 		"/C/wamp/www/PHP3/WiTaxi/ProjetWeb2/Taxi/Config.txt",
 		"/C/wamp/www/PHP3/WiTaxi/ProjetWeb2/Taxi/README.md",
 		"/C/wamp/www/PHP3/WiTaxi/ProjetWeb2/readme.md",
@@ -434,9 +438,7 @@
 		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/horus-fw-develop/config.h",
 		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/horus-develop/package.sh",
 		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/ciclop-master/svg/chessboard-pattern.svg",
-		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/ciclop-master/freecad/back-cover.fcstd",
-		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/ciclop-master/dxf/disc.dxf",
-		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/ciclop-master/dxf/pattern-surface.dxf"
+		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/ciclop-master/freecad/back-cover.fcstd"
 	],
 	"find":
 	{
