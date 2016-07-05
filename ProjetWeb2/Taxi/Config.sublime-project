@@ -5,7 +5,7 @@
 			"file_exclude_patterns":
 			[
 				"*.txt",
-				"LICENSE",
+				"LICENSE"
 			],
 			"folder_exclude_patterns":
 			[

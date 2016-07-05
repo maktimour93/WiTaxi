@@ -135,14 +135,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/C/wamp/www/PHP3/ProjetWeb2/Tuto-GIT/01-Premiers pas avec Git",
-			"settings":
-			{
-				"buffer_size": 6504,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -313,18 +305,19 @@
 	},
 	"expanded_folders":
 	[
-		"/C/wamp/www/PHP3/ProjetWeb2",
-		"/C/wamp/www/PHP3/ProjetWeb2/Tuto-GIT"
+		"/C/wamp/www/PHP3/ProjetWeb2"
 	],
 	"file_history":
 	[
 		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/Config.sublime-project",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/Config.txt",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/LICENSE",
+		"/C/wamp/www/PHP3/ProjetWeb2/Tuto-GIT/01-Premiers pas avec Git",
 		"/C/wamp/www/PHP3/ProjetWeb2/readme.md",
 		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/accueil.php",
 		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/index.php",
 		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/README.md",
 		"/C/wamp/www/PHP3/ProjetWeb2/readme.txt",
-		"/C/wamp/www/PHP3/ProjetWeb2/Tuto-GIT/01-Premiers pas avec Git",
 		"/C/wamp/www/PHP3/ProjetWeb2/Tuto-GIT/02-Apprendre à utiliser GitHub",
 		"/C/wamp/www/PHP3/ProjetWeb2/Tuto-GIT/03-Collaborer et maîtriser son historique",
 		"/C/wamp/www/PHP3/ProjetWeb2/Tuto-GIT/04-GIT-Resume",
@@ -361,7 +354,6 @@
 		"/C/wamp/www/PHP/ProjetWeb/BarreauDeNice/Accueil.php",
 		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/Accueil.html",
 		"/C/Users/USER/Desktop/Accueil.php",
-		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/Config.txt",
 		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/index.html",
 		"/C/wamp/www/PHP/ProjetWeb2/Taxi/LICENSE",
 		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/index.html",
@@ -444,12 +436,11 @@
 		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/ciclop-master/doc/data.json",
 		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/ciclop-master/doc/images/ciclop-parts.jpg",
 		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/ciclop-master/doc/images/ciclop.jpg",
-		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/ciclop-master/doc/images/main.png",
-		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/horus-fw-develop/system.c"
+		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/ciclop-master/doc/images/main.png"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -612,58 +603,14 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/C/wamp/www/PHP3/ProjetWeb2/Tuto-GIT/01-Premiers pas avec Git",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6504,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3465,
-								3465
-							]
-						],
-						"settings":
-						{
-							"apply_syntax_touched": true,
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 520.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 23.0
 	},
 	"input":
 	{
@@ -716,7 +663,7 @@
 	"project": "Config.sublime-project",
 	"replace":
 	{
-		"height": 64.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
