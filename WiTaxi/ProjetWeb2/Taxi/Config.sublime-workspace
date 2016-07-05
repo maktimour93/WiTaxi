@@ -1,0 +1,729 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Fe",
+				"FEMME"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"els",
+				"else〔keyword〕"
+			],
+			[
+				"no",
+				"novembre"
+			],
+			[
+				"cf",
+				"$cfpassword〔variable〕"
+			],
+			[
+				"pre",
+				"prepare"
+			],
+			[
+				"da",
+				"date_month"
+			],
+			[
+				"date",
+				"date_day"
+			],
+			[
+				"bi",
+				"birthday_year"
+			],
+			[
+				"backc",
+				"background-color"
+			],
+			[
+				"ul",
+				"ul	ul - Placeholder"
+			],
+			[
+				"center",
+				"text-center	 bootstrap.css"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inlin",
+				"list-inline	 agency.css"
+			],
+			[
+				"div",
+				"div"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"boe",
+				"border-width"
+			],
+			[
+				"bordr-",
+				"border-radius"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"lo",
+				"lowercase"
+			],
+			[
+				"R",
+				"Rights"
+			],
+			[
+				"img",
+				"img	Image - Placeholder"
+			],
+			[
+				"sl",
+				"slide-two"
+			],
+			[
+				"slide",
+				"slide-one	 agency.css"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"actua",
+				"actualité_1"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pass",
+				"password"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "js",
+		"selected_items":
+		[
+			[
+				"js",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"th",
+				"Themr: List themes"
+			],
+			[
+				"sublim",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"",
+				"Build With: SQL"
+			],
+			[
+				"thr",
+				"Themr: List themes"
+			],
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"clang",
+				"Clang Format: Select Style"
+			],
+			[
+				"cla",
+				"Clang Format: Format Selection"
+			],
+			[
+				"Snippet: ",
+				"Snippet: dl - Placeholder"
+			],
+			[
+				"re",
+				"Repeat Macro"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"da",
+				"Format Date"
+			],
+			[
+				"for",
+				"Format Date"
+			],
+			[
+				"date",
+				"Format Date"
+			],
+			[
+				"the",
+				"Themr: List themes"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"cache",
+				"SublimeLinter: Clear Color Scheme Folder"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"t",
+				"Themr: List themes"
+			],
+			[
+				"lin",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"linter",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"su",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"help",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"lint",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/PHP3/WiTaxi"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/PHP3/WiTaxi/ProjetWeb2/Taxi/Config.txt",
+		"/C/wamp/www/PHP3/WiTaxi/ProjetWeb2/Taxi/README.md",
+		"/C/wamp/www/PHP3/WiTaxi/ProjetWeb2/readme.md",
+		"/C/wamp/www/PHP3/WiTaxi/ProjetWeb2/Taxi/Config.sublime-project",
+		"/C/wamp/www/PHP3/WiTaxi/README.md",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/Config.sublime-project",
+		"/C/wamp/www/PHP3/ProjetWeb2/Tuto-GIT/01-Premiers pas avec Git",
+		"/C/wamp/www/PHP3/ProjetWeb2/readme.md",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/accueil.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/index.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/README.md",
+		"/C/wamp/www/PHP3/ProjetWeb2/readme.txt",
+		"/C/wamp/www/PHP3/ProjetWeb2/Tuto-GIT/02-Apprendre à utiliser GitHub",
+		"/C/wamp/www/PHP3/ProjetWeb2/Tuto-GIT/03-Collaborer et maîtriser son historique",
+		"/C/wamp/www/PHP3/ProjetWeb2/Tuto-GIT/04-GIT-Resume",
+		"/C/wamp/www/PHP3/ProjetWeb2/Tuto-GIT/git/Partie III/02-Correction/git-explications",
+		"/C/wamp/www/PHP3/ProjetWeb2/Tuto/git/Partie I/01-Premiers pas avec Git",
+		"/C/wamp/www/PHP3/ProjetWeb2/Tuto/git/Partie I/02-Test I",
+		"/C/Users/USER/Desktop/IUT/OpenClass/01-Informatique/08-Gérer son code avec Git et GitHub/Partie I/01-Premiers pas avec Git",
+		"/C/Users/USER/Desktop/IUT/OpenClass/01-Informatique/08-Gérer son code avec Git et GitHub/GIT/demo_git/README.md",
+		"/C/Users/USER/Desktop/IUT/OpenClass/01-Informatique/08-Gérer son code avec Git et GitHub/GIT/branche/hello.js",
+		"/C/Users/USER/Desktop/IUT/Projet/AnimeList/index.html",
+		"/C/Users/USER/Desktop/IUT/Projet/AnimeList/Custom.css",
+		"/C/Users/USER/Desktop/IUT/Projet/AnimeList/MyAnimeListOriginal.css",
+		"/C/Users/USER/Desktop/IUT/_S4T/TxT",
+		"/C/Users/USER/Desktop/IUT/_S3T/planning",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/sidebar.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/services.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/pricing.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/portfolio-item.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/portfolio-4-col.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/portfolio-3-col.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/portfolio-2-col.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/portfolio-1-col.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/full-width.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/faq.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/contact.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/blog-post.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/blog-home-2.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/partie/Navigation2.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/blog-home-1.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/about.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/404.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/partie/Navigation.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/Accueil.php",
+		"/C/wamp/www/PHP/ProjetWeb/BarreauDeNice/Accueil.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/Accueil.html",
+		"/C/Users/USER/Desktop/Accueil.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/Config.txt",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/index.html",
+		"/C/wamp/www/PHP/ProjetWeb2/Taxi/LICENSE",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/index.html",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/sidebar.html",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/services.html",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/pricing.html",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/README.md",
+		"/C/Users/USER/Desktop/pricing.html",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/portfolio-item.html",
+		"/C/Users/USER/Desktop/portfolio-item.html",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/portfolio-4-col.html",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/portfolio-2-col.html",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/portfolio-3-col.html",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/portfolio-1-col.html",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/full-width.html",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/contact.html",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/faq.html",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/blog-home-2.html",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/blog-post.html",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/blog-home-1.html",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/about.html",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/404.html",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/js/jquery.js",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/js/contact_me.js",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/js/jqBootstrapValidation.js",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/js/bootstrap.js",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/js/bootstrap.min.js",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 3/Packages/JsFormat/Default (Windows).sublime-keymap",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 3/Packages/User/JsFormat.sublime-settings",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/css/modern-business.css",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/font-awesome/less/bordered-pulled.less",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/font-awesome/scss/_bordered-pulled.scss",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/css/bootstrap.css",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/css/bootstrap.min.css",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/font-awesome/fonts/fontawesome-webfont.eot",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/font-awesome/fonts/fontawesome-webfont.svg",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/font-awesome/fonts/fontawesome-webfont.ttf",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 3/Packages/Csslisible/Default (Windows).sublime-keymap",
+		"/C/Users/USER/Desktop/IUT/Projet/Taxi/startbootstrap-modern-business-1.0.5/bin/contact_me.php",
+		"/H/03-key/launch.bat",
+		"/C/Users/USER/Desktop/IUT/Piratage/03-key/launch.bat",
+		"/H/keylogger 1.1/BrowsingHistoryView.exe",
+		"/H/keylogger 1.1/launch.bat",
+		"/H/launch.bat",
+		"/C/Users/USER/Desktop/IUT/Piratage/03-key/launch1.bat",
+		"/C/Users/USER/Desktop/IUT/Piratage/03-key/launch2.bat",
+		"/C/Users/USER/Desktop/IUT/Piratage/02-Revealer Keylogger/Keylogger.cpp",
+		"/H/03-key/WebBrowserPassView.cfg",
+		"/H/tuto.txt",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DRa0.295/USBSERIALwin7/READ_ME_FIRST.txt",
+		"/C/wamp/www/PHP/ProjetWeb/BarreauDeNice/charte/Avocat.txt",
+		"/C/wamp/www/PHP/ProjetWeb/BarreauDeNice/phpscripts/AffichageAvocats.php",
+		"/C/wamp/www/PHP/ProjetWeb/BarreauDeNice/BDD/barreaudenice.sql",
+		"/C/wamp/www/PHP/ProjetWeb/BarreauDeNice/BDD/bigdata.sql",
+		"/C/Program Files (x86)/Arduino/drivers/FTDI USB Drivers/amd64/ftd2xx.lib",
+		"/C/wamp/www/PHP/ProjetWeb/BarreauDeNice/BDD/vue.sql",
+		"/C/Users/USER/Downloads/crack.php",
+		"/C/Users/USER/Downloads/search.php",
+		"/C/wamp/www/PHP/ProjetWeb/BarreauDeNice/Enregistrement.php",
+		"/C/wamp/www/PHP/ProjetWeb/BarreauDeNice/phpscripts/EnregistrementClient.php",
+		"/C/wamp/www/PHP/ProjetWeb/BarreauDeNice/Annuaire.php",
+		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/horus-develop/setup_mac.py",
+		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/horus-develop/setup.py",
+		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/horus-develop/horus",
+		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/horus-develop/src/horus/engine/calibration/calibration.py",
+		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/horus-develop/src/horus/engine/calibration/autocheck.py",
+		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/horus-develop/src/horus/engine/calibration/__init__.py",
+		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/horus-develop/src/horus/engine/scan/__init__.py",
+		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/horus-develop/src/horus/engine/__init__.py",
+		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/horus-develop/src/horus/__init__.py",
+		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/horus-fw-develop/eeprom.c",
+		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/horus-fw-develop/config.h",
+		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/horus-develop/package.sh",
+		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/ciclop-master/svg/chessboard-pattern.svg",
+		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/ciclop-master/freecad/back-cover.fcstd",
+		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/ciclop-master/dxf/disc.dxf",
+		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/ciclop-master/dxf/pattern-surface.dxf"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".html",
+			"'06000'",
+			"'06000''",
+			"{\"",
+			"DROIT DE LA FAMILLE, DES PERSONNES ET DE LEUR PATRIMOINE",
+			"642",
+			"Puget ",
+			"DROIT DES GARANTIES, DES SURETES ET DES MESURES D'EXECUTION",
+			"06000",
+			"Céline",
+			"Céline MICHELON",
+			"CAP D'AIL",
+			"DROIT DES GARANTIES, DES SURETES ET DES MESURES D'EXECUTION",
+			"677",
+			".",
+			"DROIT FISCAL ET DROIT DOUANIER",
+			"leventOUN",
+			"572",
+			"BEAULIEU SUR MER",
+			"‡",
+			"-",
+			"',",
+			"1994-09-26",
+			"-",
+			"-  -",
+			"-\n-",
+			"0000-00-00",
+			"sfrej",
+			"Puget",
+			"Puget-Theniers",
+			"Wager",
+			"DROIT PENAL",
+			"DROIT FISCAL ET DROIT DOUANIER ",
+			"Catarina CLEMENTE DE BARROS ",
+			",",
+			"25",
+			" 27px",
+			"183",
+			"183×249",
+			"01",
+			"Tur",
+			"Tu",
+			"tu",
+			"turck",
+			"turk",
+			"türk",
+			"TURK",
+			"'",
+			"Marie-Dominique ",
+			"BEZZINA ",
+			"André ",
+			"André BEZZINA ",
+			"\\r\\n",
+			"DROIT PENAL",
+			"24",
+			"DROIT DES SOCIETES",
+			"DROIT IMMOBILIER",
+			"DROIT IMMOBILIER ",
+			"TOSSAN",
+			"philippe",
+			"DROIT FISCAL ET DROIT DOUANIER - DROIT DES SOCIETES",
+			"ARMANI",
+			"KRID",
+			"#",
+			"- ",
+			"\n#-",
+			"DROIT DE LA SECURITE SOCIALE ET DE LA PROTECTION SOCIALE",
+			"-",
+			"Nice",
+			"NICE",
+			"Nice",
+			" \n",
+			"\n  				",
+			"\n ",
+			"\n  				",
+			" \n",
+			"]",
+			"[]",
+			"]",
+			"[",
+			"]",
+			"[ bernard.amozig@gmail.com ]",
+			"\"",
+			">",
+			"Courriel :",
+			"(",
+			">",
+			"Courriel :",
+			"#",
+			"14",
+			"albertinroby",
+			">",
+			"Courriel : souad.akhrif@wanadoo.fr\">",
+			"#",
+			"\n#(",
+			"de case :",
+			"Télécopie :",
+			"Téléphone :",
+			"#",
+			"'",
+			"\n ",
+			"sylvia",
+			"Sylvia",
+			" '",
+			"#",
+			"\n#",
+			"#\n",
+			"\n#",
+			"#",
+			"\n#",
+			"\n#(",
+			"user",
+			"userconfig",
+			"ville",
+			"NULL",
+			"*",
+			"PATRIMOIN",
+			"*",
+			"v",
+			"V",
+			"v",
+			"V",
+			"v",
+			"V",
+			"v",
+			">",
+			"<option value=\"1\">",
+			"NICE"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".php",
+			"yohanludi220990",
+			"NULL"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 116.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 138.0
+	},
+	"pinned_build_system": "",
+	"project": "Config.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ac",
+				"BarreauDeNice\\Actualite.php"
+			],
+			[
+				"sql",
+				".metadata\\.plugins\\org.eclipse.php.core\\__language__\\4a8f64b3\\sqlite3.php"
+			],
+			[
+				"nav",
+				"BarreauDeNice\\EspaceAvocats.php"
+			],
+			[
+				"timour",
+				".metadata\\.plugins\\org.eclipse.core.runtime\\.settings\\org.eclipse.mylyn.monitor.ui.prefs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "hea",
+		"selected_items":
+		[
+			[
+				"hea",
+				"head"
+			]
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

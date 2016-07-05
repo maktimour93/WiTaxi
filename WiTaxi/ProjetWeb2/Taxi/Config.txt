@@ -1,0 +1,44 @@
+/*
+	configuration du projet pour supprimer visualement les fichiers inutile
+ */
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.txt",
+				"LICENSE"
+			],
+			"folder_exclude_patterns":
+			[
+				"font-awesome",
+				"fonts",
+				"js"
+			],
+			"path": "C:\\wamp\\www\\PHP3\\WiTaxi"
+		}
+	]
+}
+
+/*
+	emplacement du site
+ */
+C:\wamp\www\PHP3\
+
+/*
+	site héberger sur github
+ */
+https://github.com/maktimour93/WiTaxi
+
+/*
+	ce que tu dois faire Yonie
+ */
+
+-Aller sur ton ordi a cette emplacement C:\wamp\www\PHP3\ avec git en feseant des cd (cd C:, cd wamp ... ainsi de suite)
+-git init (1er commande qui permet de dire ou tu est sur git)
+-puis faire git clone https://github.com/maktimour93/WiTaxi.git
+-et voila t'a le projet 
++
+git remote add origin https://github.com/maktimour93/WiTaxi.git (permet de dire origin principale du projet)
+git push -u origin master (permet d'envoyer ton code vers la branche principale mais ne le fait pas pour l'instant car t'aura t'a propre branche)
