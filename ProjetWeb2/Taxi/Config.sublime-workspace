@@ -318,6 +318,13 @@
 	],
 	"file_history":
 	[
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/Config.sublime-project",
+		"/C/wamp/www/PHP3/ProjetWeb2/readme.md",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/accueil.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/index.php",
+		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/README.md",
+		"/C/wamp/www/PHP3/ProjetWeb2/readme.txt",
+		"/C/wamp/www/PHP3/ProjetWeb2/Tuto-GIT/01-Premiers pas avec Git",
 		"/C/wamp/www/PHP3/ProjetWeb2/Tuto-GIT/02-Apprendre à utiliser GitHub",
 		"/C/wamp/www/PHP3/ProjetWeb2/Tuto-GIT/03-Collaborer et maîtriser son historique",
 		"/C/wamp/www/PHP3/ProjetWeb2/Tuto-GIT/04-GIT-Resume",
@@ -332,7 +339,6 @@
 		"/C/Users/USER/Desktop/IUT/Projet/AnimeList/MyAnimeListOriginal.css",
 		"/C/Users/USER/Desktop/IUT/_S4T/TxT",
 		"/C/Users/USER/Desktop/IUT/_S3T/planning",
-		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/index.php",
 		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/sidebar.php",
 		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/services.php",
 		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/pricing.php",
@@ -346,7 +352,6 @@
 		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/contact.php",
 		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/blog-post.php",
 		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/blog-home-2.php",
-		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/accueil.php",
 		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/partie/Navigation2.php",
 		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/blog-home-1.php",
 		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/about.php",
@@ -356,7 +361,6 @@
 		"/C/wamp/www/PHP/ProjetWeb/BarreauDeNice/Accueil.php",
 		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/Accueil.html",
 		"/C/Users/USER/Desktop/Accueil.php",
-		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/Config.sublime-project",
 		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/Config.txt",
 		"/C/wamp/www/PHP3/ProjetWeb2/Taxi/index.html",
 		"/C/wamp/www/PHP/ProjetWeb2/Taxi/LICENSE",
@@ -441,11 +445,7 @@
 		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/ciclop-master/doc/images/ciclop-parts.jpg",
 		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/ciclop-master/doc/images/ciclop.jpg",
 		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/ciclop-master/doc/images/main.png",
-		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/horus-fw-develop/system.c",
-		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/horus-fw-develop/COPYING",
-		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/horus-fw-develop/cpu_map.h",
-		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/horus-fw-develop/defaults.h",
-		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/horus-fw-develop/main.c"
+		"/C/Users/USER/Desktop/IUT/_S4T/Scanner-Horus/Open Source-Code/horus-fw-develop/system.c"
 	],
 	"find":
 	{
@@ -628,8 +628,8 @@
 						"selection":
 						[
 							[
-								2859,
-								2859
+								3465,
+								3465
 							]
 						],
 						"settings":
@@ -652,7 +652,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 520.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
